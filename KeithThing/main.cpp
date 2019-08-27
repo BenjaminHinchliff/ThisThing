@@ -2,12 +2,12 @@
 //
 
 #include "main.h"
-#include "Phone.h"
+#include "Consonant.h"
 
 int main()
 {
     using namespace std::string_literals;
-    Phone testPhone{"test"s, "test"s, false};
+    Consonant testPhone{"test"s, "test"s, false};
 
     std::cout << testPhone << '\n';
 

@@ -5,12 +5,12 @@ cmake_minimum_required (VERSION 3.8)
 
 set(TARGET_H
     main.h
-    Phone.h
+    Consonant.h
 )
 
 set(TARGET_SRC
     main.cpp
-    Phone.cpp
+    Consonant.cpp
 )
 
 # Add source to this project's executable.
