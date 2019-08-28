@@ -1,8 +1,9 @@
 ﻿// IDKKeithDidn'tTellMeWhatToCallThis.cpp : Defines the entry point for the application.
 //
 
-#include "main.h"
-#include "Consonant.h"
+#include <iostream>
+
+#include "headers/Consonant.h"
 
 int main()
 {
